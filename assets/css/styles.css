@@ -6,7 +6,7 @@
   /*========== Colors ==========*/
   --hue: 45;
   --sat: 98%;
-  --first-color: hsl(var(--hue), var(--sat), 60%);
+  --first-color: blue;
   --first-color-light: hsl(var(--hue), var(--sat), 85%);
   --first-color-lighten: hsl(var(--hue), var(--sat), 80%);
   --first-color-alt: hsl(var(--hue), var(--sat), 53%);
