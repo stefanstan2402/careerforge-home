@@ -8,7 +8,7 @@
   --sat: 98%;
   --first-color: #648CB7;
   --first-color-light: hsl(var(--hue), var(--sat), 90%);
-  --first-color-lighten: hsl(var(--hue), var(--sat), 80%);
+  --first-color-lighten: #648CB7;
   --first-color-alt: rgb(165, 165, 216);
   --title-color: hsl(var(--hue), 4%, 15%);
   --text-color: hsl(var(--hue), 4%, 35%);
